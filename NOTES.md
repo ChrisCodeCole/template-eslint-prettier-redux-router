@@ -14,7 +14,3 @@ _italicized text_
 [Link](www.google.com)
 
 ---
-
-### Thoughts
-
-- Use **CSV** files for owner to update portfilio
