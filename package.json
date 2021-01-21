@@ -41,8 +41,7 @@
 		"jsxSingleQuote": true,
 		"singleQuote": true,
 		"useTabs": true,
-		"tabWidth": 4,
-		"endOfLine": "lf"
+		"tabWidth": 4
 	},
 	"husky": {
 		"hooks": {
