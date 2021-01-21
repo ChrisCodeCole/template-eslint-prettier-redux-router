@@ -2,11 +2,11 @@ This is a template base project using React Hooks. This project was bootstrapped
 
 ### Added Dependencies
 
-- axios
-- prettier
-- eslint
-- husky
-- lint-staged
-- react-router
-- redux
-- react-spring
+-   axios
+-   prettier
+-   eslint
+-   husky
+-   lint-staged
+-   react-router
+-   redux
+-   react-spring
